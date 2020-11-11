@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.menu-bar
+{
+    background-image: linear-gradient(to right,#6db9ef,#7ce98a);
+}
+.nav-link{
+    font-size: 16px;
+    color: #fff !important;
+    margin: 2px;
+}
+.img{
+    padding: 0;
+    height: px;
+}
